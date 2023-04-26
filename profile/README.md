@@ -1,10 +1,7 @@
 ## Hi there 👋
 
+We're a non-profit organization creating Web apps. We're most passionate about giving back to the community, and our goal is to pursue this passion within the field of software engineering.
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
